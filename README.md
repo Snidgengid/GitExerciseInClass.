@@ -1,1 +1,3 @@
 # GitExerciseInClass.
+Þetta er prufa 
+==============
